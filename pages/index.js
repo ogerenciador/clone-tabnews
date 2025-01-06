@@ -5,4 +5,3 @@ function Body() {
   return <h1>Teste</h1>;
 }
 export default Body;
- 

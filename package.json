@@ -1,7 +1,7 @@
 {
   "name": "clone-tabnews",
   "version": "1.0.0",
-  "description": "",
+  "description": "Implementação do https://www.tabnews.com.br para o https://curso.dev",
   "main": "index.js",
   "scripts": {
     "dev": "npm run services:up && next dev",
